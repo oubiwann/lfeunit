@@ -2,6 +2,11 @@
 lfeunit: eunit for LFE
 ######################
 
+Deprecated
+==========
+
+This project has been deprecated in favor of `lunit`_ (which has 100% inherited from lfeunit).
+
 
 Introduction
 ============
@@ -346,3 +351,4 @@ use to look for the tests to run.
 .. _Google Groups discussion: https://groups.google.com/d/msg/lisp-flavoured-erlang/eJH2m7XK0dM/WFibzgrqP1AJ
 .. _Github LFE ticket: https://github.com/rvirding/lfe/issues/31
 .. _Rebar discussion: http://lists.basho.com/pipermail/rebar_lists.basho.com/2011-January/000471.html
+.. _lunit: https://github.com/lfex/lunit
